@@ -93,7 +93,7 @@ Primary use:
   font-family: Poppins-Thin;
   font-size: 72px;
   line-height: 1.1;
-  color: rgba(255, 255, 255, 0.5);
+  /* color: rgba(255, 255, 255, 0.5); */
   text-transform: uppercase;
   letter-spacing: 15px;
 }
@@ -272,6 +272,10 @@ Primary use:
 [ Custom ]*/
 .psc-logo {
   width: 900px;
+}
+
+.color-white {
+  color: #fff !important;
 }
 
 /*==================================================================
